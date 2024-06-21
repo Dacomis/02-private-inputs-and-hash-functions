@@ -1,6 +1,6 @@
 # Mina zkApp: 02 Private Inputs And Hash Functions
 
-This template uses TypeScript.
+A simple guessing game based on the original tutorial.
 
 ## How to build
 
@@ -8,19 +8,10 @@ This template uses TypeScript.
 npm run build
 ```
 
-## How to run tests
+## How to run the game
 
 ```sh
-npm run test
-npm run testw # watch mode
+npm run build && node build/src/main.js
 ```
 
-## How to run coverage
-
-```sh
-npm run coverage
-```
-
-## License
-
-[Apache-2.0](LICENSE)
+![alt text](image.png)# 02-private-inputs-and-hash-functions
