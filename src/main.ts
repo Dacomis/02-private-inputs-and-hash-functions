@@ -7,8 +7,6 @@ const rl = readline.createInterface({
   output: process.stdout,
 });
 
-const useProof = false;
-
 async function main() {
   const Local = await Mina.LocalBlockchain({ proofsEnabled: false });
   Mina.setActiveInstance(Local);
