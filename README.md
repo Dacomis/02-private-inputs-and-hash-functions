@@ -14,4 +14,6 @@ npm run build
 npm run build && node build/src/main.js
 ```
 
-![alt text](image.png)# 02-private-inputs-and-hash-functions
+## Example of results
+
+![alt text](image.png)
